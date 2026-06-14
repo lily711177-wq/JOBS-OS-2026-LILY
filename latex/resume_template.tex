@@ -1,0 +1,122 @@
+% ============================================================
+% ATS-COMPLIANT RESUME TEMPLATE
+% Generates text-based PDF (parseable by all major ATS)
+% Single-column, no tables/graphics, standard fonts
+% Compile: xelatex resume.tex
+% ============================================================
+\documentclass[10pt,letterpaper]{article}
+
+% ---- FONTS ----
+\usepackage{fontspec}
+% COMPANY SPECIFIED FONT — change per JD requirements
+\setmainfont{Arial}[
+  BoldFont=Arial Bold,
+  ItalicFont=Arial Italic,
+  BoldItalicFont=Arial Bold Italic
+]
+% Fallback (if company font not available on Overleaf):
+% 1. Uncomment Liberation Sans (metric-compatible with Arial)
+% 2. Comment the Arial lines above
+% \setmainfont{Liberation Sans}[
+%   Extension=.ttf,
+%   BoldFont=LiberationSans-Bold,
+%   ItalicFont=LiberationSans-Italic,
+%   BoldItalicFont=LiberationSans-BoldItalic
+% ]
+% Note: "Company First" rule — always use what the company specifies.
+% If Arial doesn't compile, upload Arial.ttf/arialbd.ttf/ariali.ttf
+% to the Overleaf project root and try again.
+
+% ---- GEOMETRY ----
+\usepackage[hmargin=0.75in,vmargin=0.75in]{geometry}
+
+% ---- PACKAGES ----
+\usepackage{parskip}          % No indent, block paragraphs
+\usepackage{hyperref}         % Clickable links
+\hypersetup{colorlinks=true, linkcolor=black, urlcolor=black}
+\usepackage{xcolor}           % For optional subtle color
+\usepackage{enumitem}         % Bullet control
+
+% ---- STYLE ----
+\pagestyle{empty}
+\setlist[itemize]{leftmargin=*, nosep, topsep=2pt}
+
+% ---- CUSTOM COMMANDS ----
+\newcommand{\resumename}[1]{{\centering\LARGE\textbf{#1}\par}}
+\newcommand{\resumecontact}[1]{{\centering\small#1\par\vspace{6pt}}}
+\newcommand{\sections}[1]{{\vspace{8pt}\textbf{\large #1}\vspace{4pt}\hrule\vspace{4pt}}}
+\newcommand{\role}[2]{{\textbf{#1}\hfill\textit{#2}\par}}
+\newcommand{\company}[2]{{\textbf{#1}\hfill#2\par}}
+\newcommand{\bulletitem}[1]{\item #1}
+
+% ---- BEGIN RESUME ----
+\begin{document}
+
+\resumename{ARYAN S.}
+\resumecontact{Vancouver, BC | [phone] | [email] | linkedin.com/in/aryans}
+
+% ---- PROFESSIONAL SUMMARY ----
+\sections{Professional Summary}
+
+Results-driven Operations and Business Development leader with 8 years of experience building scalable mechanisms, reporting frameworks, and cross-functional processes at a high-growth multi-site services organization. Scaled operations from 3 to 70 across 32 locations, designed KPIs and accountability frameworks from zero, and directed full operations through a \$17M acquisition. Deeply experienced in stakeholder alignment, data-driven decision-making, and strategic execution.
+
+% ---- PROFESSIONAL EXPERIENCE ----
+\sections{Professional Experience}
+
+\company{Director of Operations}{SkyflyMD -- Multi-site Services (AZ/TX) | 2017--2025}
+
+\textit{Built multi-site operations from zero -- scaled 3 to 70 across 32 locations, architected every system, directed through \$17M acquisition.}
+
+\vspace{3pt}
+\textbf{Mechanisms \& Reporting Frameworks}
+\begin{itemize}
+  \item Built full-stack operational mechanisms from zero: scheduling cadence, workflow stage definitions, resource allocation frameworks, and quality standards across 32 locations -- reducing service delivery gaps by 40\%
+  \item Created KPI reporting frameworks with weekly/monthly/quarterly cadences giving leadership real-time visibility into operational health, throughput, and efficiency across all facilities
+  \item Established metrics dashboards (utilization rates, throughput, quality scores, stakeholder satisfaction) accessible to every location manager -- drove consistent performance across all sites
+\end{itemize}
+
+\textbf{Data-Driven Operations}
+\begin{itemize}
+  \item Maintained 95\%+ data integrity across all operational systems through governance protocols, workflow automation, and cross-functional adoption programs
+  \item Designed forecasting models with ≤±5\% variance, integrating demand patterns, resource availability, historical throughput, and seasonal variations into a single operational truth used for executive decision-making
+  \item Built real-time dashboards translating complex operational data into actionable recommendations -- reduced decision cycle time by 60\%
+\end{itemize}
+
+\textbf{Cross-Functional Leadership \& Stakeholder Alignment}
+\begin{itemize}
+  \item Served as primary interface between executive leadership and 5 operational unit managers -- translating strategic direction into coordinated execution plans
+  \item Drove alignment on company-wide operational roadmap: accountability frameworks, decision rights, and escalation paths that scaled from 3 to 70 people
+  \item Led quarterly planning cycles with consistent attainment across all operational metrics for 5 consecutive cycles
+\end{itemize}
+
+\textbf{Systems \& Scalable Process Design}
+\begin{itemize}
+  \item Architected company operating system: communication protocols, meeting cadences, decision-making frameworks, role/responsibility definitions across all units
+  \item Consolidated 8 systems into unified operational stack post-acquisition -- reducing costs while improving data quality and team productivity
+  \item Created repeatable playbooks for every operational function -- enabling consistent execution across growing multi-site team
+\end{itemize}
+
+\textbf{M\&A \& Transition Management}
+\begin{itemize}
+  \item Directed 8 concurrent due diligence workstreams during \$17M acquisition (finance, legal, operations, provider contracts)
+  \item Retained 100\% of key team through earnout period; built operations function from solo operator to team of 6 leads managing 70 total staff
+  \item Identified underperforming assets, led operational turnarounds, prepared facilities for successful sale or integration
+\end{itemize}
+
+% ---- EDUCATION ----
+\sections{Education}
+
+\company{Post-Baccalaureate Diploma, Technical Management}{Kwantlen Polytechnic University, Vancouver | 2025}
+\company{MBA + BSc Information Technology}{IQAS-Verified Equivalency}
+
+% ---- TECHNICAL PROFICIENCY ----
+\sections{Technical Proficiency}
+
+\begin{itemize}
+  \item \textbf{Operations:} Athenahealth, eClinicalWorks, CRM platforms, scheduling systems
+  \item \textbf{Analytics:} Advanced Excel/Google Sheets, operational dashboards, data modeling
+  \item \textbf{Process:} Workflow automation, SOP design, quality assurance frameworks
+  \item \textbf{Compliance:} HIPAA, healthcare data governance, audit protocols
+\end{itemize}
+
+\end{document}

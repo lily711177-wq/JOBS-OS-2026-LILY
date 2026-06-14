@@ -1,0 +1,68 @@
+% ============================================================
+% ATS-COMPLIANT COVER LETTER TEMPLATE
+% Text-based PDF, single-column, standard fonts
+% Compile: xelatex cover_letter.tex
+% ============================================================
+\documentclass[11pt,letterpaper]{article}
+
+\usepackage{fontspec}
+% COMPANY SPECIFIED FONT — change per JD requirements
+\setmainfont{Arial}[
+  BoldFont=Arial Bold,
+  ItalicFont=Arial Italic,
+  BoldItalicFont=Arial Bold Italic
+]
+% Fallback (if company font not available on Overleaf):
+% \setmainfont{Liberation Sans}[
+%   Extension=.ttf,
+%   BoldFont=LiberationSans-Bold,
+%   ItalicFont=LiberationSans-Italic,
+%   BoldItalicFont=LiberationSans-BoldItalic
+% ]
+
+\usepackage[hmargin=1in,vmargin=1in]{geometry}
+\usepackage{parskip}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true, linkcolor=black, urlcolor=black}
+
+\pagestyle{empty}
+
+\begin{document}
+
+\begin{flushleft}
+Aryan S. \\
+Vancouver, BC \\
+[email] | [phone]
+\end{flushleft}
+
+\vspace{12pt}
+
+\begin{flushleft}
+[Date]
+\end{flushleft}
+
+\vspace{12pt}
+
+\begin{flushleft}
+Amazon Canada Retail Hardlines Team \\
+Amazon.com.ca, ULC \\
+Vancouver, BC
+\end{flushleft}
+
+\vspace{12pt}
+
+\textbf{Re: Business Development Manager, Consumer Electronics \& Entertainment Media (Job ID: 10426144)}
+
+\vspace{12pt}
+
+Dear Amazon Canada Retail Team,
+
+[Cover letter body -- 3-4 paragraphs linking your experience to the role's requirements. See lifecycle package for full text.]
+
+Best regards,
+
+\vspace{6pt}
+
+Aryan S.
+
+\end{document}
