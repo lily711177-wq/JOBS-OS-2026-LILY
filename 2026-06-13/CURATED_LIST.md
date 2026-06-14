@@ -46,7 +46,7 @@
 |---|-----|---------|----------|-----|------|--------|
 | 23 | KPU Career Connection | KPU (on-campus) | Surrey | $17-25 | [kpu.ca/careers](https://www.kpu.ca/careers) | 📋 open |
 | 24 | KPU Work-Study | KPU | Surrey | $17-20 | [kpu.ca/careers](https://www.kpu.ca/careers) | 📋 open |
-| 25 | Student Temp Pool | SFU | Burnaby | $19-23 | [Indeed](https://ca.indeed.com/jobs?q=Student+Temporary+Pool+SFU&l=Burnaby) | 📋 open |
+| 25 | Student Temp Pool | SFU | Burnaby | $19-23 | [SFU Careers](https://www.sfu.ca/students/career.html) | 📋 open |
 | 26 | CSR | Fortis BC | Burnaby | $22.28 | [Indeed](https://ca.indeed.com/jobs?q=Customer+Service+Representative+Fortis+BC&l=Burnaby) | 📋 open |
 | 27 | Wellness Assistant | Harmony Hill Wellness | Burnaby | $20-30 | [Indeed](https://ca.indeed.com/jobs?q=Wellness+Assistant+Harmony+Hill+Wellness&l=Burnaby) | 📋 open |
 | 28 | TA | BCIT | Burnaby | TBD | [Indeed](https://ca.indeed.com/jobs?q=Teaching+Assistant+BCIT&l=Burnaby) | 📋 open |

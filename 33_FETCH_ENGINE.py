@@ -65,7 +65,7 @@ PIPES = {
         "companies": [
             ("KPU Learning Centre", "https://www.kpu.ca/learningcentres"),
             ("SFU Student Learning Commons", "https://www.lib.sfu.ca/about/branches-depts/slc"),
-            ("TutorBright", "https://tutorbright.com/careers/"),
+            ("TutorBright", "https://tutorbright.com"),
             ("Oxford Learning", "https://www.oxfordlearning.com/careers/"),
             ("Sylvan Learning", "https://www.sylvanlearning.com/careers"),
             ("GradeSlam", "https://gradeslam.com/careers"),
@@ -108,8 +108,8 @@ PIPES = {
         "companies": [
             ("SFU Student Union", "https://sfss.ca/jobs/"),
             ("KPU Student Association", "https://www.kusa.ca/jobs"),
-            ("SFU Career Portal", "https://www.sfu.ca/career/students.html"),
-            ("KPU Career Portal", "https://www.kpu.ca/career"),
+            ("SFU Career Portal", "https://www.sfu.ca/students/career.html"),
+            ("KPU Career Portal", "https://www.kpu.ca/careers"),
         ],
     },
     "Library": {
@@ -126,7 +126,7 @@ PIPES = {
         "companies": [
             ("Burnaby Public Library", "https://bpl.bc.ca/about/careers"),
             ("Vancouver Public Library", "https://www.vpl.ca/careers"),
-            ("SFU Library", "https://www.lib.sfu.ca/about/jobs"),
+            ("SFU Library", "https://www.lib.sfu.ca/about"),
             ("KPU Library", "https://www.kpu.ca/library"),
         ],
     },
