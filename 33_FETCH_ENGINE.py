@@ -19,7 +19,7 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
-SYSTEM_ROOT = Path("/mnt/f/JOBS-OS-2026-LILY")
+SYSTEM_ROOT = Path("/mnt/c/Users/muska/JOBS-OS-2026-LILY")
 CORPUS_FILE = SYSTEM_ROOT / "01_MASTER_CORPUS.md"
 TRACKING_FILE = SYSTEM_ROOT / "TRACKING.md"
 JOBS_DB = SYSTEM_ROOT / "data" / "jobs.json"
@@ -255,9 +255,9 @@ def main():
 
     roles_to_show = EASY_ROLES if easy_only else STUDENT_ROLES
     print(f"\n  Looking for: {', '.join(roles_to_show[:5])}...")
-  print(f"  Location: Burnaby / SFU area / Surrey / transit-accessible Vancouver")
-  print(f"  Pay: DYNAMIC — always target upper range. Tutor: up to $60/hr, Admin: up to $28/hr")
-  print(f"  Hours: 10-24 hrs/week, flexible")
+    print(f"  Location: Burnaby / SFU area / Surrey / transit-accessible Vancouver")
+    print(f"  Pay: DYNAMIC — always target upper range. Tutor: up to $60/hr, Admin: up to $28/hr")
+    print(f"  Hours: 10-24 hrs/week, flexible")
 
     print(f"\n{'='*60}")
     print(f"  GENERATING SEARCH URLs FOR ALL {'EASY ' if easy_only else ''}PIPES")
