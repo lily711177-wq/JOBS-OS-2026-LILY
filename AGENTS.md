@@ -3,10 +3,12 @@
 
 ---
 
-### PERMANENT HOME
-**This system lives here permanently:**
-- **Local home:** `E:\JOBS-OS-2026-LILY\` (E: drive)
+### HARD RULE #0 — Permanent Home
+**This system lives ONLY at `E:\JOBS-OS-2026-LILY\` — never run from anywhere else.**
+- WSL path: `/mnt/e/JOBS-OS-2026-LILY/`
 - GitHub remote: `git@github.com:lily711177-wq/JOBS-OS-2026-LILY.git`
+- If cloned elsewhere, `git push` will fail — paths in scripts are hardcoded to E:
+- Every session starts here. No exceptions.
 
 ---
 
