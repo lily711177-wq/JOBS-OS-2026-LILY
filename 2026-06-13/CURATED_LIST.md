@@ -10,53 +10,53 @@
 
 ## 📚 TUTORING & EDUCATION — BEST FIT 🔥
 
-| # | Job | Company | Location | Pay | Why it fits |
-|---|-----|---------|----------|-----|------------|
-| 1 | **Math Instructor/Tutor** | **Mathnasium of Burnaby North** | **Burnaby, BC** | **$17-22/hr** 🏆 | **Closest to home, hybrid option, pure math** |
-| 2 | **Math Instructor/Tutor** | **Mathnasium of South Surrey** | **Surrey, BC** | **$15-20/hr** 🏆 | **Near KPU Surrey campus, math-only** |
-| 3 | **BC High School Tutor (Math/Chem/Physics)** | **U+ Education Vancouver** | **Richmond, BC** | **$25-40/hr** 💰 | **Math focus, high pay, transit route** |
-| 4 | **Science Tutor (AP Bio/Chem/Physics/Math)** | **Elite Educational Institute** | **Richmond, BC** | **$35-40/hr** 💰 | **AP Math tutoring, structured curriculum** |
-| 5 | **Academic Tutor (Math focus)** | **Tutor Doctor-Pacific** | **North Vancouver** | **$20-28/hr** | **Flexible, 1:1, structured sessions** |
-| 6 | **Academic Instructor/Tutor** | **Lux Education Group** | **Richmond, BC** | **$25-50/hr** | **1-on-1 and small group, structured** |
-| 7 | **Math Teacher/Tutor** | **Oxford Learning Centres** | **West Vancouver** | **$20-25/hr** | **Part-time, curriculum provided** |
-| 8 | **Math Teacher (Elem/High School)** | **Oxford Learning Centres** | **Vancouver** | **$22-28/hr** | **Math-specific, structured lessons** |
-| 9 | **Part-Time Math/Science Teacher** | **Oxford Learning Centres** | **Vancouver (Oakridge)** | **$18-20/hr** | **Simple, structured teaching** |
-| 10 | **Inclusive Education Instructor** | **Learn. Develop. Succeed** | **Vancouver, BC** | **$28-33/hr** | **1:1 instruction, predictable setting** |
-| 11 | **Academic Tutor** | **Tutor Doctor** | **White Rock/Surrey** | **$20-25/hr** | **Near KPU Surrey, flexible schedule** |
-| 12 | **Special Needs Tutor** | **Tutor Doctor** | **Burnaby** | **$25-28/hr** | **1:1 structured, Burnaby-based** |
-| 13 | **Special Education Tutor** | **School is Easy** | **Coquitlam** | **$21-33/hr** | **1:1 in-home, flexible, structured** |
-| 14 | **English Literature/ESL Tutor** | **Level Up Consulting** | **Richmond** | **$26-50/hr** | **High pay, structured curriculum** |
-| 15 | **SPRING/SUMMER Roblox/AI Instructor** | **Every Child Can Learn** | **Vancouver** | **$35-45/hr** | **High pay, structured curriculum** |
-| 16 | **French Instructor** | **Create Career College** | **Burnaby** | **$37/hr** | **Burnaby! Structured teaching** |
+| # | Job | Company | Location | Pay | Link | Status |
+|---|-----|---------|----------|-----|------|--------|
+| 1 | Math Instructor/Tutor | Mathnasium Burnaby North | Burnaby | $17-22 | [Indeed](https://ca.indeed.com/jobs?q=Math+Instructor+Tutor+Mathnasium+Burnaby+North&l=Burnaby) | ✅ SHOOT |
+| 2 | Math Instructor/Tutor | Mathnasium South Surrey | Surrey | $15-20 | [Indeed](https://ca.indeed.com/jobs?q=Math+Instructor+Tutor+Mathnasium+South+Surrey&l=Surrey) | ✅ SHOOT |
+| 3 | BC High School Tutor | U+ Education Vancouver | Richmond | $25-40 | [Indeed](https://ca.indeed.com/jobs?q=BC+High+School+Tutor+Math+Chem+Physics+U+Education&l=Richmond) | 📋 open |
+| 4 | Science Tutor (AP) | Elite Educational Institute | Richmond | $35-40 | [Indeed](https://ca.indeed.com/jobs?q=Science+Tutor+Elite+Educational+Institute&l=Richmond) | 📋 open |
+| 5 | Academic Tutor (Math) | Tutor Doctor-Pacific | North Vancouver | $20-28 | [Indeed](https://ca.indeed.com/jobs?q=Academic+Tutor+Tutor+Doctor+Pacific+North+Vancouver&l=North+Vancouver) | 📋 open |
+| 6 | Academic Instructor | Lux Education Group | Richmond | $25-50 | [Indeed](https://ca.indeed.com/jobs?q=Academic+Instructor+Tutor+Lux+Education+Group&l=Richmond) | 📋 open |
+| 7 | Math Teacher/Tutor | Oxford Learning | West Vancouver | $20-25 | [Indeed](https://ca.indeed.com/jobs?q=Math+Teacher+Tutor+Oxford+Learning+West+Vancouver&l=West+Vancouver) | 📋 open |
+| 8 | Math Teacher (K-12) | Oxford Learning | Vancouver | $22-28 | [Indeed](https://ca.indeed.com/jobs?q=Math+Teacher+Oxford+Learning+Vancouver&l=Vancouver) | 📋 open |
+| 9 | Math/Science Teacher PT | Oxford Learning | Vancouver (Oakridge) | $18-20 | [Indeed](https://ca.indeed.com/jobs?q=Part+Time+Math+Science+Teacher+Oxford+Learning+Oakridge&l=Vancouver) | 📋 open |
+| 10 | Inclusive Ed Instructor | Learn. Develop. Succeed | Vancouver | $28-33 | [Indeed](https://ca.indeed.com/jobs?q=Inclusive+Education+Instructor+Learn+Develop+Succeed&l=Vancouver) | 📋 open |
+| 11 | Academic Tutor | Tutor Doctor | Surrey | $20-25 | [Indeed](https://ca.indeed.com/jobs?q=Academic+Tutor+Tutor+Doctor+White+Rock+Surrey&l=Surrey) | 📋 open |
+| 12 | Special Needs Tutor | Tutor Doctor | Burnaby | $25-28 | [Indeed](https://ca.indeed.com/jobs?q=Special+Needs+Tutor+Tutor+Doctor+Burnaby&l=Burnaby) | 📋 open |
+| 13 | Special Education Tutor | School is Easy | Coquitlam | $21-33 | [Indeed](https://ca.indeed.com/jobs?q=Special+Education+Tutor+School+is+Easy&l=Coquitlam) | 📋 open |
+| 14 | ESL Tutor | Level Up Consulting | Richmond | $26-50 | [Indeed](https://ca.indeed.com/jobs?q=English+Literature+ESL+Tutor+Level+Up+Consulting&l=Richmond) | 📋 open |
+| 15 | Roblox/AI Instructor | Every Child Can Learn | Vancouver | $35-45 | [Indeed](https://ca.indeed.com/jobs?q=Roblox+AI+Instructor+Every+Child+Can+Learn&l=Vancouver) | 📋 open |
+| 16 | French Instructor | Create Career College | Burnaby | $37 | [Indeed](https://ca.indeed.com/jobs?q=French+Instructor+Create+Career+College&l=Burnaby) | 📋 open |
 
 ## 📋 ADMIN & RECEPTION — GOOD FIT ✅
 
-| # | Job | Company | Location | Pay | Why it fits |
-|---|-----|---------|----------|-----|------------|
-| 17 | **Receptionist/Admin Assistant** | **Juris Notary** | **Burnaby (Lougheed)** | **$20-25/hr** | **Predictable desk work, close to home** |
-| 18 | **Front Desk Receptionist** | **Capilano Volkswagen** | **North Vancouver** | **$19-21/hr** | **Structured, 20-25hrs/wk, part-time** |
-| 19 | **Office Administrator (PT)** | **Trail Appliances** | **Surrey (Cloverdale)** | **$23.30/hr** | **Near KPU, structured admin tasks** |
-| 20 | **Part Time Studio Assistant** | **Power Of My People** | **Burnaby** | **$19-21/hr** | **Simple assistant tasks, Burnaby** |
-| 21 | **Sales Associate** | **Windsor Plywood** | **Burnaby** | **$19-22/hr** | **Slow-paced retail, structured** |
-| 22 | **Customer Service Rep (Order Desk)** | **Inform Brokerage** | **Burnaby** | **$40-45k/yr** | **Desk-based, structured, predictable** |
+| # | Job | Company | Location | Pay | Link | Status |
+|---|-----|---------|----------|-----|------|--------|
+| 17 | Receptionist/Admin | Juris Notary | Burnaby (Lougheed) | $20-25 | [Indeed](https://ca.indeed.com/jobs?q=Receptionist+Admin+Assistant+Juris+Notary+Lougheed&l=Burnaby) | ✅ SHOOT |
+| 18 | Front Desk Receptionist | Capilano VW | North Vancouver | $19-21 | [Indeed](https://ca.indeed.com/jobs?q=Front+Desk+Receptionist+Capilano+Volkswagen&l=North+Vancouver) | 📋 open |
+| 19 | Office Administrator PT | Trail Appliances | Surrey (Cloverdale) | $23.30 | [Indeed](https://ca.indeed.com/jobs?q=Office+Administrator+Trail+Appliances+Cloverdale&l=Surrey) | 📋 open |
+| 20 | Studio Assistant PT | Power Of My People | Burnaby | $19-21 | [Indeed](https://ca.indeed.com/jobs?q=Studio+Assistant+Power+Of+My+People&l=Burnaby) | 📋 open |
+| 21 | Sales Associate | Windsor Plywood | Burnaby | $19-22 | [Indeed](https://ca.indeed.com/jobs?q=Sales+Associate+Windsor+Plywood&l=Burnaby) | 📋 open |
+| 22 | CSR Order Desk | Inform Brokerage | Burnaby | $40-45k | [Indeed](https://ca.indeed.com/jobs?q=Customer+Service+Rep+Order+Desk+Inform+Brokerage&l=Burnaby) | 📋 open |
 
 ## 🎓 CAMPUS & STUDENT SERVICES — CAMPUS PROXIMITY 🏆
 
-| # | Job | Company | Location | Pay | Why it fits |
-|---|-----|---------|----------|-----|------------|
-| 23 | **KPU Career Connection** 🎯 | **KPU (on-campus)** | **Surrey** | **$17-25/hr** | **Log in at kpu.ca/careers — on-campus jobs for students!** |
-| 24 | **KPU Work-Study** 📋 | **KPU** | **Surrey** | **$17-20/hr** | **Max 15hrs/wk, on-campus, very structured** |
-| 25 | **Student Temp Pool (SFU)** | **SFU** | **Burnaby** | **$19-23/hr** | **Clerical/admin/data entry — Burnaby campus** |
-| 26 | **Customer Service Rep** | **Fortis BC** | **Burnaby** | **$22.28/hr** | **Structured, predictable desk work** |
-| 27 | **Wellness Assistant** | **Harmony Hill Wellness** | **Burnaby** | **$20-30/hr** | **Simple assistant role, part-time/casual** |
-| 28 | **Teaching Assistant (BCIT)** | **BCIT** | **Burnaby** | **TBD** | **Structured TA role, Burnaby campus** |
+| # | Job | Company | Location | Pay | Link | Status |
+|---|-----|---------|----------|-----|------|--------|
+| 23 | KPU Career Connection | KPU (on-campus) | Surrey | $17-25 | [kpu.ca/careers](https://www.kpu.ca/careers) | 📋 open |
+| 24 | KPU Work-Study | KPU | Surrey | $17-20 | [kpu.ca/careers](https://www.kpu.ca/careers) | 📋 open |
+| 25 | Student Temp Pool | SFU | Burnaby | $19-23 | [Indeed](https://ca.indeed.com/jobs?q=Student+Temporary+Pool+SFU&l=Burnaby) | 📋 open |
+| 26 | CSR | Fortis BC | Burnaby | $22.28 | [Indeed](https://ca.indeed.com/jobs?q=Customer+Service+Representative+Fortis+BC&l=Burnaby) | 📋 open |
+| 27 | Wellness Assistant | Harmony Hill Wellness | Burnaby | $20-30 | [Indeed](https://ca.indeed.com/jobs?q=Wellness+Assistant+Harmony+Hill+Wellness&l=Burnaby) | 📋 open |
+| 28 | TA | BCIT | Burnaby | TBD | [Indeed](https://ca.indeed.com/jobs?q=Teaching+Assistant+BCIT&l=Burnaby) | 📋 open |
 
 ## 💰 PRIVATE TUTORING — HIGHEST PAY
 
-| # | Opportunity | Platform | Pay | Why it fits |
-|---|-------------|----------|-----|------------|
-| 29 | **Private Math Tutor (self-marketing)** | **Facebook/Kijiji/Nextdoor** | **$30-60/hr** | **Your own schedule, pure math, ADHD-friendly** |
-| 30 | **Online Math Tutor** | **Paper/GradeSlam** | **$20-30/hr** | **Remote, structured platform, flexible** |
+| # | Opportunity | Platform | Pay | Link | Status |
+|---|-------------|----------|-----|------|--------|
+| 29 | Private Math Tutor | Facebook/Kijiji/Nextdoor | $30-60 | Self-marketing | 📋 open |
+| 30 | Online Math Tutor | Paper/GradeSlam | $20-30 | [paper.co](https://paper.co) | 📋 open |
 
 ---
 

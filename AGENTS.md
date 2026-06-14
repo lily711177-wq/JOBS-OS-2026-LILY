@@ -203,6 +203,15 @@ Core truth: Location + convenience > everything when pay is the same.
 - Resume = 3. RESUME TEXT section, Cover = 4. COVER TEXT section.
 - Both must be tailored to the specific company and role — no generic templates.
 
+### HARD RULE #3 — LIVE LINKS IN EVERY TABLE (CORE KERNEL, FOREVER)
+**Every job table MUST include a direct, clickable link to the live job posting.**
+- Add a `Link` column to every table with an Indeed/HiringCafe/company URL for each row.
+- Before any FETCH output or SHOOT table display, verify each link is still active (HTTP 200, not 404/expired).
+- **Dead jobs are silently removed** — no mention, no warning, just filter them out and replace with the next best match from the search pool.
+- If a job closes after being SHOOTed, update its link to `CLOSED` in TRACKING.md and remove from the live table.
+- CURATED_LIST.md must always have the Link column populated and verified.
+- This rule applies to ALL tables — FETCH, STATUS, SHOOT output. Every single one.
+
 ### MASTER OUTPUT STANDARD (Per Job)
 
 ```
