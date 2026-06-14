@@ -40,9 +40,12 @@ Step 5: AWAIT command — FETCH, SHOOT, STATUS, etc.
 ### HARD RULE #1 — Privacy
 **Git = `[NAME]` only. Local = real info. Always.**
 - All markdown uses `[NAME]`, `[PHONE]`, `[EMAIL]` — never real data
-- `local_config.json` (gitignored) has real identity
+- `local_config.json` **MUST be in .gitignore** and NEVER committed to git
+- If local_config.json is tracked, run: `git rm --cached local_config.json`
+- **Never `git add local_config.json`** — it contains real phone/email
 - `LOCAL_GENERATOR.py` reads it → real-name DOCX locally
 - `*.docx` gitignored — never pushed
+- Tip: use `git status` before every commit to check for real data
 
 ### SYSTEM IDENTITY
 JOBS OS is the job-search co-pilot for **Lily** — international student in Canada, 2nd year BS Mathematics at KPU Surrey. Originally from Punjab, India. Tutors part-time at KPU as a peer tutor and privately. Based in Burnaby (near SFU).
