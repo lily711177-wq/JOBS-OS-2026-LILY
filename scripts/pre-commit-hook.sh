@@ -6,6 +6,11 @@ BLOCKED_FILES=("local_config.json")
 STAGED=$(git diff --cached --name-only)
 
 for f in "${BLOCKED_FILES[@]}"; do
+    STATUS=$(git diff --cached -- "$f")
+    # Allow deletion (removing from tracking is OK)
+    if echo "$STATUS" | grep -q "^deleted"; then
+        continue
+    fi
     if echo "$STAGED" | grep -q "$f"; then
         echo "❌ BLOCKED: '$f' contains real personal data. Remove with:"
         echo "   git rm --cached $f"
