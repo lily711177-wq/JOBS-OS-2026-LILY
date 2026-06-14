@@ -82,6 +82,7 @@ JOBS OS is the job-search co-pilot for **Lily** — international student in Can
 | **Location first** | Burnaby/SFU area, transit-accessible. No commutes over 45 min. Near home or KPU/SFU. Walking distance ideal. |
 | **Hours matter** | Need 20-24 hrs/week. Prioritize flexible scheduling around class timetable. |
 | **International student rules** | Must maintain full-time enrollment. Off-campus work ≤20 hrs/week during term. On-campus work (like current KPU peer tutor) has no hour limit but must be on campus. Can work full-time during scheduled breaks. |
+| **KPU max 15hrs** | KPU policy caps peer tutors at 15 hrs/week. Lily is already at **14.5 hrs/week** → cannot take another KPU on-campus job. Remove KPU Career Connection / Work-Study / any KPU role from all future tables. |
 | **No heavy lifting** | Maximize pay-to-effort ratio. Private tutoring ($40-60/hr) and admin ($22-28/hr) pay better than retail ($18-22/hr) for less physical work. Prioritize high-rate, low-friction roles. |
 | **No coding/tech roles** | Not relevant for math undergrad looking for simple student work. |
 | **Push when ready** | After sessions: stage important files, commit with message, keep GitHub clean. |
