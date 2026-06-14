@@ -19,7 +19,7 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
-SYSTEM_ROOT = Path("/mnt/c/Users/muska/JOBS-OS-2026-LILY")
+SYSTEM_ROOT = Path("/mnt/e/JOBS-OS-2026-LILY")
 CORPUS_FILE = SYSTEM_ROOT / "01_MASTER_CORPUS.md"
 TRACKING_FILE = SYSTEM_ROOT / "TRACKING.md"
 JOBS_DB = SYSTEM_ROOT / "data" / "jobs.json"

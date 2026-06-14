@@ -5,8 +5,8 @@
 
 ### PERMANENT HOME
 **This system lives here permanently:**
-- **Local home:** `F:\JOBS-OS-2026-LILY\` (F: drive)
-- No GitHub yet — set up when ready
+- **Local home:** `E:\JOBS-OS-2026-LILY\` (E: drive)
+- GitHub remote: `git@github.com:lily711177-wq/JOBS-OS-2026-LILY.git`
 
 ---
 
