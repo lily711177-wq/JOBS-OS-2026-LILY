@@ -44,19 +44,30 @@
 
 | # | Job | Company | Location | Pay | Link | Status |
 |---|-----|---------|----------|-----|------|--------|
-| 23 | KPU Career Connection | KPU (on-campus) | Surrey | $17-25 | [kpu.ca/careers](https://www.kpu.ca/careers) | 🔒 maxed (14.5/15hrs) |
-| 24 | KPU Work-Study | KPU | Surrey | $17-20 | [kpu.ca/careers](https://www.kpu.ca/careers) | 🔒 maxed (14.5/15hrs) |
+| ~~23~~ | ~~KPU Career Connection~~ | ~~KPU~~ | ~~Surrey~~ | ~~$17-25~~ | — | 🔒 at 14.5/15hrs |
+| ~~24~~ | ~~KPU Work-Study~~ | ~~KPU~~ | ~~Surrey~~ | ~~$17-20~~ | — | 🔒 at 14.5/15hrs |
 | 25 | Student Temp Pool | SFU | Burnaby | $19-23 | [SFU Careers](https://www.sfu.ca/students/career.html) | 📋 open |
 | 26 | CSR | Fortis BC | Burnaby | $22.28 | [Indeed](https://ca.indeed.com/jobs?q=Customer+Service+Representative+Fortis+BC&l=Burnaby) | 📋 open |
 | 27 | Wellness Assistant | Harmony Hill Wellness | Burnaby | $20-30 | [Indeed](https://ca.indeed.com/jobs?q=Wellness+Assistant+Harmony+Hill+Wellness&l=Burnaby) | 📋 open |
 | 28 | TA | BCIT | Burnaby | TBD | [Indeed](https://ca.indeed.com/jobs?q=Teaching+Assistant+BCIT&l=Burnaby) | 📋 open |
 
+## 🛒 CASHIER & GROCERY — NEW ADDITION ✅
+
+| # | Job | Company | Location | Pay | Link | Status |
+|---|-----|---------|----------|-----|------|--------|
+| 29 | Cashier | Real Canadian Superstore | Burnaby | $18-21 | [Indeed](https://ca.indeed.com/jobs?q=cashier+Superstore+Burnaby&l=Burnaby) | 📋 open |
+| 30 | Cashier/Stocker | Walmart | Burnaby | $17-20 | [Indeed](https://ca.indeed.com/jobs?q=cashier+Walmart+Burnaby&l=Burnaby) | 📋 open |
+| 31 | Cashier | Save-On-Foods | Burnaby | $17-20 | [Indeed](https://ca.indeed.com/jobs?q=cashier+Save+On+Foods+Burnaby&l=Burnaby) | 📋 open |
+| 32 | Cashier | No Frills | Burnaby | $17-20 | [Indeed](https://ca.indeed.com/jobs?q=cashier+No+Frills+Burnaby&l=Burnaby) | 📋 open |
+| 33 | Cashier | London Drugs | Burnaby | $18-22 | [Indeed](https://ca.indeed.com/jobs?q=cashier+London+Drugs+Burnaby&l=Burnaby) | 📋 open |
+| 34 | Sales Associate | Canadian Tire | Burnaby | $18-21 | [Indeed](https://ca.indeed.com/jobs?q=cashier+Canadian+Tire+Burnaby&l=Burnaby) | 📋 open |
+
 ## 💰 PRIVATE TUTORING — HIGHEST PAY
 
 | # | Opportunity | Platform | Pay | Link | Status |
 |---|-------------|----------|-----|------|--------|
-| 29 | Private Math Tutor | Facebook/Kijiji/Nextdoor | $30-60 | Self-marketing | 📋 open |
-| 30 | Online Math Tutor | Paper/GradeSlam | $20-30 | [paper.co](https://paper.co) | 📋 open |
+| 35 | Private Math Tutor | Facebook/Kijiji/Nextdoor | $30-60 | Self-marketing | 📋 open |
+| 36 | Online Math Tutor | Paper/GradeSlam | $20-30 | [paper.co](https://paper.co) | 📋 open |
 
 ---
 
@@ -65,7 +76,7 @@
 | Rank | Job | Location | Pay | Why |
 |------|-----|----------|-----|-----|
 | 🥇 | **Mathnasium of Burnaby North** | Burnaby | $17-22/hr | Hybrid, math-only, close to home, ADHD-friendly |
-| 🥇 | **KPU Career Connection / Work-Study** | KPU Surrey | $17-25/hr | On-campus! Already a KPU student, max convenience |
+| 🥇 | **Superstore Cashier** | Burnaby | $18-21/hr | Close to home, simple register work, predictable |
 | 🥇 | **BC High School Tutor (U+ Education)** | Richmond | $25-40/hr | Math focus, transit-accessible, high pay |
 | 🥇 | **Private Math Tutoring** | Your area | $30-60/hr | Maximum pay, full control, your pace |
 | 🥇 | **Receptionist (Juris Notary)** | Burnaby Lougheed | $20-25/hr | Desk job, close to home, predictable |
@@ -75,7 +86,7 @@
 ### ADHD-FRIENDLY ROLES — What to look for:
 - **Tutoring:** Structured curriculum provided, 1:1 or small group, predictable sessions
 - **Admin/Reception:** Desk-based, task-oriented, same routine each day
-- **Cashier:** Simple transactions, no complex menus (grocery/retail > fast food)
+- **Cashier (grocery):** Simple transactions, predictable register work, stock shelves when quiet. Superstore/Walmart/No Frills/Save-On/London Drugs ideal.
 - **Avoid:** Fast food, food service with large menus, high-speed assembly lines
 
 ### NEXT STEP

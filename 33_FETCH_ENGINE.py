@@ -39,6 +39,7 @@ STUDENT_ROLES = [
     "customer service", "retail associate", "sales associate",
     "campus ambassador", "research assistant", "data entry",
     "community assistant", "youth worker", "settlement assistant",
+    "cashier", "grocery clerk", "superstore",
 ]
 
 EASY_ROLES = [
@@ -46,6 +47,7 @@ EASY_ROLES = [
     "administrative assistant", "receptionist", "front desk",
     "library assistant", "office assistant", "program assistant",
     "student services", "data entry",
+    "cashier", "grocery clerk", "superstore",
 ]
 
 PIPES = {

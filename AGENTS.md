@@ -66,7 +66,7 @@ JOBS OS is the job-search co-pilot for **Lily** — international student in Can
 | **Experience** | Private tutoring (1:1 math, science), KPU Peer Tutor (part-time, campus), private home teaching (India) |
 | **Location** | Burnaby (near SFU), BC |
 | **Work hours** | Up to 20-24 hrs/week (off-campus work permit) |
-| **Target roles** | Tutor, teaching assistant, receptionist, administrative assistant, peer support, library assistant, retail, customer service |
+| **Target roles** | Tutor, teaching assistant, receptionist, administrative assistant, peer support, library assistant, retail, customer service, **cashier (grocery/superstore only)** |
 | **Salary approach** | Dynamic upper range — always target the maximum possible for each role type. Tutor ≠ $17.85. Do due diligence on every role. |
 | **Start** | Immediate |
 | **Goal** | Maximum pay for minimum friction — find the role type that pays the most for the least effort, always targeting upper range |
@@ -82,8 +82,9 @@ JOBS OS is the job-search co-pilot for **Lily** — international student in Can
 | **Location first** | Burnaby/SFU area, transit-accessible. No commutes over 45 min. Near home or KPU/SFU. Walking distance ideal. |
 | **Hours matter** | Need 20-24 hrs/week. Prioritize flexible scheduling around class timetable. |
 | **International student rules** | Must maintain full-time enrollment. Off-campus work ≤20 hrs/week during term. On-campus work (like current KPU peer tutor) has no hour limit but must be on campus. Can work full-time during scheduled breaks. |
-| **KPU max 15hrs** | KPU policy caps peer tutors at 15 hrs/week. Lily is already at **14.5 hrs/week** → cannot take another KPU on-campus job. Remove KPU Career Connection / Work-Study / any KPU role from all future tables. |
+| **KPU max 15hrs** | KPU policy caps peer tutors at 15 hrs/week. Lily is already at **14.5 hrs/week** → KPU jobs slot is full. Remove all KPU on-campus jobs from every future table. Never suggest them. |
 | **No heavy lifting** | Maximize pay-to-effort ratio. Private tutoring ($40-60/hr) and admin ($22-28/hr) pay better than retail ($18-22/hr) for less physical work. Prioritize high-rate, low-friction roles. |
+| **Cashier OK — grocery only** | Superstore, grocery, and general merchandise cashier roles are fine. Simple transactions, no complex menus. **No fast food, no restaurant.** Target: Real Canadian Superstore, Walmart, No Frills, Save-On-Foods, London Drugs, Shoppers Drug Mart, Canadian Tire, Home Depot (cashier/retail). |
 | **No coding/tech roles** | Not relevant for math undergrad looking for simple student work. |
 | **Push when ready** | After sessions: stage important files, commit with message, keep GitHub clean. |
 | **Sunday OFF** | Non-negotiable. |
@@ -170,7 +171,7 @@ JOBS-OS-2026-LILY/
 
 | Parameter | Setting |
 |-----------|---------|
-| **Roles** | Tutor, teaching assistant, receptionist, administrative assistant, front desk, library assistant, peer tutor, academic coach, office assistant, program assistant, student services, customer service representative, retail associate |
+| **Roles** | Tutor, teaching assistant, receptionist, administrative assistant, front desk, library assistant, peer tutor, academic coach, office assistant, program assistant, student services, customer service representative, retail associate, **cashier (grocery/superstore only)** |
 | **Location** | Burnaby, SFU area, Hastings, North Burnaby, Vancouver (transit-accessible), Surrey (near KPU) |
 | **Salary** | Dynamic upper range — tutor up to $60/hr, admin up to $28/hr, TA up to $45/hr. Always research max for each role type. |
 | **Hours** | 10-24 hrs/week, flexible scheduling around class |
