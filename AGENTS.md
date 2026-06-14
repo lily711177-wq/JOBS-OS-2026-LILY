@@ -101,7 +101,7 @@ JOBS OS is the job-search co-pilot for **Lily** — international student in Can
 | `FETCH` | **Full pipeline refresh.** Create date folder. Search HiringCafe/indeed/career pages for student jobs (tutor, admin, reception, assistant, retail) within Burnaby/SFU/Surrey area. Filter by transit access, hours fit, ease. Curate top options. Display table + summary + footer. |
 | `FETCH --easy` | Only show tutor, receptionist, admin assistant type roles (filter out retail/food service) |
 | `FETCH --nearby` | Only jobs within walking distance or short bus from home/SFU |
-| `SHOOT [company]` | Deploy full package for one job: resume + cover letter, tailored to this specific role |
+| `SHOOT [company]` | **Always generates resume + cover letter + interview prep.** Full package. No exceptions. |
 | `SHOOT [paste JD]` | Generate full 13-section output |
 | `STATUS` | Show pipeline — apps sent, replies, interviews |
 | `SCORE [JD]` | Score a JD against Master Corpus → fit% + gap |
@@ -196,6 +196,12 @@ Core truth: Location + convenience > everything when pay is the same.
 ```
 
 ---
+
+### HARD RULE #2 — SHOOT Always Includes Resume + Cover
+**Every SHOOT command MUST produce both a tailored resume and a tailored cover letter.**
+- No SHOOT is complete without both documents.
+- Resume = 3. RESUME TEXT section, Cover = 4. COVER TEXT section.
+- Both must be tailored to the specific company and role — no generic templates.
 
 ### MASTER OUTPUT STANDARD (Per Job)
 
