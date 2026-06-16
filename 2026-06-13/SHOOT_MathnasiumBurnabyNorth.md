@@ -43,14 +43,14 @@ Punjabi). Pursuing a BS in Mathematics with an Education concentration at KPU Su
 
 RELEVANT EXPERIENCE
 
-Peer Tutor (Level 2 Mathematics) | KPU Learning Centre | Surrey & Cloverdale, BC
+Peer Tutor (Level 2 Mathematics) | KPU Learning Centre | Surrey + Cloverdale, BC
 Sept 2025 – Present (10 months)
-- Tutor 10+ students per semester in calculus, algebra, and statistics courses
-- Adapt teaching methods to visual, practice-based, and conceptual learning styles
-- Help students improve grades 1-2 levels through consistent one-on-one support
-- Cover MATH 1110-1220 and STAT 1060 level course material
-- Tutor trades apprentices (plumbing, electrician, millwright) in applied math at Cloverdale campus
-- Learn trade terminology and bridge abstract math to real-world trade applications
+- Dual-campus role: Surrey (science/math students) + Cloverdale (trades apprentices)
+- Tutor calculus, algebra, statistics (MATH 1110–1220, STAT 1060) at Surrey campus
+- Tutor plumbing, electrician, and millwright apprentices in applied math at Cloverdale campus
+- Adapt teaching to visual, practice-based, and conceptual learning styles
+- Help students improve 1-2 grade levels through consistent one-on-one support
+- Learn trade terminology alongside students — bridge abstract math to hands-on applications
 
 Private Tutor | Self-employed | Punjab, India
 2022 – 2024
@@ -88,12 +88,11 @@ I saw the Math Instructor opening at Mathnasium of Burnaby North, it felt like t
 perfect fit — I already walk by Hastings regularly, and I love what Mathnasium does
 for students.
 
-At KPU, I work one-on-one and in small groups with university students in calculus,
-algebra, and statistics. I also tutor trades apprentices at the Cloverdale campus —
-plumbing, electrician, and millwright students who need applied math for their
-apprenticeships. That experience taught me to explain concepts to students who
-don't think of themselves as "math people," which is exactly what Mathnasium does
-every day. I also ran my own private tutoring for secondary students back home in
+At KPU, I work across two campuses — tutoring science and math students at Surrey
+and trades apprentices (plumbing, electrician, millwright) at Cloverdale. That
+range taught me to explain the same math concepts to completely different audiences:
+university students who need theory, and trades students who need to apply it on
+the job. I also ran my own private tutoring for secondary students back home in
 India, which taught me how to build trust and track real progress over time.
 
 What draws me to Mathnasium is the structured approach — I work best when there's a

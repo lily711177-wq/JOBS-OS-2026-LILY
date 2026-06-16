@@ -63,7 +63,7 @@ JOBS OS is the job-search co-pilot for **Lily** — international student in Can
 | **Name** | Lily |
 | **Status** | International student, Canada |
 | **School** | KPU Surrey — 2nd year BS Mathematics |
-| **Experience** | Private tutoring (1:1 math, science), KPU Learning Centre Peer Tutor — Surrey & Cloverdale campuses (10 months, Sept 2025–present), tutors trades apprentices (plumbing/electrician/millwright math), private home teaching (India) |
+| **Experience** | Private tutoring (1:1 math, science), KPU Learning Centre Peer Tutor — **Surrey campus** (science/math students) + **Cloverdale campus** (trades apprentices: plumbing/electrician/millwright math), private home teaching (India) |
 | **Location** | Burnaby (near SFU), BC |
 | **Work hours** | Up to 20-24 hrs/week (off-campus work permit) |
 | **Target roles** | Tutor, teaching assistant, receptionist, administrative assistant, peer support, library assistant, retail, customer service, **cashier (grocery/superstore only)** |

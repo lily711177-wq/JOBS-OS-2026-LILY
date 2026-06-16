@@ -36,23 +36,15 @@
 - Personalized lesson plans per student
 - Built long-term student relationships (1-2 years each)
 
-#### MODULE C: Peer Tutoring (KPU)
-**Tags:** `#peer-tutoring #university #academic-support #campus-job`
-**Frame:** "Employed by KPU as a Peer Tutor — support fellow students in mathematics through drop-in and appointment-based sessions during term"
+#### MODULE C: Peer Tutoring (KPU — Surrey + Cloverdale Campuses)
+**Tags:** `#peer-tutoring #university #academic-support #campus-job #trades #applied-math`
+**Frame:** "Employed by KPU as a Peer Tutor across two campuses — support science/math students at Surrey campus and trades apprentices (plumbing/electrician/millwright) at Cloverdale campus"
 **Metrics:**
-- 5 hrs/week on-campus employment
-- Support across multiple math course sections
-- Collaborate with Learning Centre staff
-- Help students prepare for exams, understand assignments
-
-#### MODULE E: Trades Math Tutoring (Cloverdale Campus)
-**Tags:** `#trades #apprenticeship #plumbing #electrical #millwright #applied-math`
-**Frame:** "Tutor trades apprentices at KPU Cloverdale campus in plumbing, electrical, and millwright math — applied problem-solving for real-world trade scenarios"
-**Metrics:**
-- Tutor plumbing, electrician, and millwright apprentices in trade-specific math
-- Learn trade terminology and applied math concepts alongside students
-- Bridge the gap between abstract math and hands-on trade applications
-- Build confidence in students who struggle with the math side of their apprenticeship
+- Tutor 10+ students per semester across both campuses
+- Surrey campus: calculus, algebra, statistics (MATH 1110–1220, STAT 1060)
+- Cloverdale campus: applied math for plumbing, electrician, and millwright apprentices
+- Learn trade terminology alongside students — bridge abstract math to hands-on applications
+- Collaborate with Learning Centre staff and trades faculty
 
 #### MODULE D: Academic Foundation
 **Tags:** `#mathematics #statistics #academic #2nd-year`

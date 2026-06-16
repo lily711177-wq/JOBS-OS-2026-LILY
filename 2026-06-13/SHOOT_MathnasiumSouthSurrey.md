@@ -43,14 +43,14 @@ student — South Surrey location is a natural fit for my campus commute.
 
 RELEVANT EXPERIENCE
 
-Peer Tutor (Level 2 Mathematics) | KPU Learning Centre | Surrey & Cloverdale, BC
+Peer Tutor (Level 2 Mathematics) | KPU Learning Centre | Surrey + Cloverdale, BC
 Sept 2025 – Present (10 months)
-- Tutor 10+ students per semester in calculus, algebra, and statistics (MATH 1110–1220)
+- Dual-campus role: Surrey (science/math students) + Cloverdale (trades apprentices)
+- Tutor calculus, algebra, statistics (MATH 1110–1220, STAT 1060) at Surrey campus
+- Tutor plumbing, electrician, and millwright apprentices in applied math at Cloverdale campus
 - Adapt teaching approach to each student's learning style — visual, conceptual, practice-based
-- Consistently help students improve comprehension and grades through regular sessions
 - Work in an open centre environment with multiple students simultaneously
-- Tutor trades apprentices (plumbing, electrician, millwright) in applied math at Cloverdale campus
-- Learn trade terminology and bridge abstract math to real-world trade applications
+- Learn trade terminology alongside students — bridge theory to hands-on application
 
 Private Tutor | Self-employed | Punjab, India
 2022 – 2024
@@ -91,12 +91,12 @@ because Mathnasium of South Surrey's Math Instructor role caught my eye — I al
 spend most of my week in Surrey for classes, and I love the structured approach
 Mathnasium brings to math education.
 
-At KPU, I work one-on-one with university students in calculus, algebra, and
-statistics. I also tutor trades apprentices at the Cloverdale campus — plumbing,
-electrician, and millwright students who need applied math. That experience taught
-me to reach students who are anxious about math, which is a big part of what
-Mathnasium does. I've also tutored secondary students independently, developing
-lesson plans and tracking their progress over months at a time.
+At KPU, I work across two campuses — Surrey (science/math students) and Cloverdale
+(trades apprentices in plumbing, electrician, millwright). Tutoring both groups
+taught me to flex my teaching style: theory for university students, applied
+problem-solving for trades students. That range is exactly what a learning centre
+needs. I've also tutored secondary students independently, developing lesson plans
+and tracking their progress over months at a time.
 
 What excites me about Mathnasium South Surrey is the location — I'm already on campus
 a few minutes away — and the Method itself. I work best with structure, and I've seen

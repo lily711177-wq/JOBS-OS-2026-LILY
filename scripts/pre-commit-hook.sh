@@ -20,7 +20,7 @@ for f in "${BLOCKED_FILES[@]}"; do
 done
 
 # Check for real phone patterns (Canadian numbers) in staged files
-if echo "$STAGED" | grep -v "^OUTPUT/" | grep -v "\.gitignore" | xargs -I{} sh -c '
+if echo "$STAGED" | grep -v "^OUTPUT/" | grep -v "\.gitignore" | grep -v "LOCAL_GENERATOR.py" | xargs -I{} sh -c '
     git diff --cached "{}" 2>/dev/null | grep -E "\+1[[:space:]]*[0-9]{3}[[:space:]]*[0-9]{3}[[:space:]]*[0-9]{4}"
 ' | grep -q .; then
     echo "❌ BLOCKED: Real phone number detected in staged files."

@@ -43,13 +43,14 @@ Seeking a structured part-time admin role with consistent hours and clear tasks.
 
 RELEVANT EXPERIENCE
 
-Peer Tutor (Level 2 Mathematics) | KPU Learning Centre | Surrey & Cloverdale, BC
+Peer Tutor (Level 2 Mathematics) | KPU Learning Centre | Surrey + Cloverdale, BC
 Sept 2025 – Present (10 months)
-- Manage scheduling and session records for 10+ regular students
+- Dual-campus role: Surrey (science/math students) + Cloverdale (trades apprentices)
+- Manage scheduling and session records for 10+ regular students across two campuses
 - Maintain detailed progress notes and adapt plans based on individual performance
 - Communicate clearly with students, faculty, and centre staff daily
 - Handle confidential student information with discretion
-- Tutor trades apprentices (plumbing, electrician, millwright) at Cloverdale campus — coordinate with trades faculty on applied math curriculum
+- Coordinate with trades faculty at Cloverdale campus on applied math curriculum
 
 Administrative Volunteer | [Local Community Organization] | Punjab, India
 2022 – 2023
@@ -91,12 +92,12 @@ the Receptionist/Admin position at Juris Notary caught my attention. A notary of
 demands accuracy, professionalism, and organization — qualities I've developed
 through my current role at KPU and previous administrative experience.
 
-At the KPU Learning Centre, I manage schedules, track student progress, and handle
-sensitive information daily. I also coordinate with trades faculty at the Cloverdale
-campus for scheduling tutoring sessions. Before that, I assisted with front desk
-operations, phone calls, filing, and document preparation in a community office
-setting. I'm comfortable multitasking — answering phones while managing walk-ins —
-and I take pride in keeping things organized.
+At the KPU Learning Centre, I manage schedules and student records across two
+campuses — Surrey and Cloverdale. I track progress for science/math students and
+coordinate with trades faculty for apprenticeship tutoring. Before that, I assisted
+with front desk operations, phone calls, filing, and document preparation in a
+community office setting. I'm comfortable multitasking — answering phones while
+managing walk-ins — and I take pride in keeping things organized.
 
 I'm based in Burnaby, so the Lougheed location is close to home and easy to commit
 to. I'm looking for a role where I can show up consistently, follow clear procedures,
