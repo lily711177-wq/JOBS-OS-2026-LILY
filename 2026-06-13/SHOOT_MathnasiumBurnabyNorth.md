@@ -43,12 +43,14 @@ Punjabi). Pursuing a BS in Mathematics with an Education concentration at KPU Su
 
 RELEVANT EXPERIENCE
 
-Peer Tutor (Level 2 Mathematics) | KPU Learning Centre | Surrey, BC
+Peer Tutor (Level 2 Mathematics) | KPU Learning Centre | Surrey & Cloverdale, BC
 Sept 2025 – Present (10 months)
 - Tutor 10+ students per semester in calculus, algebra, and statistics courses
 - Adapt teaching methods to visual, practice-based, and conceptual learning styles
 - Help students improve grades 1-2 levels through consistent one-on-one support
 - Cover MATH 1110-1220 and STAT 1060 level course material
+- Tutor trades apprentices (plumbing, electrician, millwright) in applied math at Cloverdale campus
+- Learn trade terminology and bridge abstract math to real-world trade applications
 
 Private Tutor | Self-employed | Punjab, India
 2022 – 2024
@@ -87,11 +89,12 @@ perfect fit — I already walk by Hastings regularly, and I love what Mathnasium
 for students.
 
 At KPU, I work one-on-one and in small groups with university students in calculus,
-algebra, and statistics. I've learned to adapt my teaching style to each student:
-some need visual explanations, others need step-by-step practice, and some just need
-someone patient to walk through problems with them. I also ran my own private
-tutoring for secondary students back home in India, which taught me how to build
-trust and track real progress over time.
+algebra, and statistics. I also tutor trades apprentices at the Cloverdale campus —
+plumbing, electrician, and millwright students who need applied math for their
+apprenticeships. That experience taught me to explain concepts to students who
+don't think of themselves as "math people," which is exactly what Mathnasium does
+every day. I also ran my own private tutoring for secondary students back home in
+India, which taught me how to build trust and track real progress over time.
 
 What draws me to Mathnasium is the structured approach — I work best when there's a
 clear method to follow, and I know from experience that students thrive with

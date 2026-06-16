@@ -45,6 +45,15 @@
 - Collaborate with Learning Centre staff
 - Help students prepare for exams, understand assignments
 
+#### MODULE E: Trades Math Tutoring (Cloverdale Campus)
+**Tags:** `#trades #apprenticeship #plumbing #electrical #millwright #applied-math`
+**Frame:** "Tutor trades apprentices at KPU Cloverdale campus in plumbing, electrical, and millwright math — applied problem-solving for real-world trade scenarios"
+**Metrics:**
+- Tutor plumbing, electrician, and millwright apprentices in trade-specific math
+- Learn trade terminology and applied math concepts alongside students
+- Bridge the gap between abstract math and hands-on trade applications
+- Build confidence in students who struggle with the math side of their apprenticeship
+
 #### MODULE D: Academic Foundation
 **Tags:** `#mathematics #statistics #academic #2nd-year`
 **Frame:** "Pursuing BS in Mathematics at KPU — strong foundation in calculus, linear algebra, statistics, and mathematical reasoning"
