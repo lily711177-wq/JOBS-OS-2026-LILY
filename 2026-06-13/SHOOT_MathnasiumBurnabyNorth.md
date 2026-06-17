@@ -1,18 +1,20 @@
 # SHOOT PACKAGE — Math Instructor/Tutor
-## Mathnasium of Burnaby North | 4725 Hastings St., Burnaby, BC
+## Mathnasium of Kerrisdale (originally applied to Burnaby North) | 2430 W 41 Ave, Vancouver, BC V6M 2A7
 ---
 
 ## 1. HEADER
 
 | Field | Detail |
 |-------|--------|
-| **Company** | Mathnasium of Burnaby North |
+| **Company** | Mathnasium of Kerrisdale |
 | **Role** | Math Instructor/Tutor |
 | **Pay** | $17-22/hr |
-| **Location** | 4725 Hastings St., Burnaby, BC V5C 2K8 |
+| **Location** | 2430 W 41 Ave, Vancouver, BC V6M 2A7 |
 | **Hours** | Part-time, flexible (after-school/evenings) |
 | **Fit Score** | 92% 🔥 |
-| **Why** | Hybrid option, pure math, Burnaby location, structured curriculum, teaching focus |
+| **Interview** | ✅ **Sunday Jun 21** — with Manju Ranamuka, Owner/Centre Director |
+| **Contact** | 604-569-6284 |
+| **Why** | Pure math, structured curriculum, teaching focus |
 
 ---
 
@@ -151,12 +153,25 @@ Lily
 
 | Day | Action |
 |-----|--------|
-| **T+0** | Submit application via Indeed or Mathnasium website |
-| **T+3** | Follow-up email to centre — polite check-in, restate interest |
-| **T+7** | Call the centre (604) 900-5583 — ask if they received the application |
-| **T+14** | If no response, drop by in person (4725 Hastings St.) — introduce yourself |
+| **T+0** | ✅ Applied via Indeed |
+| **T+3** | ✅ Contacted by Manju Ranamuka — interview scheduled |
+| **Sun Jun 21** | **INTERVIEW** — 2430 W 41 Ave, Vancouver |
 
 ---
 
+## INTERVIEW PREP UPDATE (Kerrisdale)
+
+### Know before you go:
+- **Centre Director:** Manju Ranamuka (you already spoke — friendly tone)
+- **Location:** 2430 W 41 Ave, Vancouver (Kerrisdale neighbourhood)
+- **Transit:** Bus 41 or Canada Line to Oakridge-41st, then bus west
+- **Not Burnaby North** — this is the Kerrisdale location. Emphasize you're happy to commute to Vancouver as well.
+- **Manju already likes you** — you got the interview because your resume and phone manner worked. Be confident.
+
+### Extra Q&A:
+
+**Q: You applied to Burnaby North — how do you feel about Kerrisdale?**
+**A:** I'm happy to work at whichever location needs me. I'm flexible with transit and Kerrisdale is accessible from Burnaby. I just want to teach math.
+
 ## NEXT STEP
-Ready to generate DOCX? Run the generator with real info. Otherwise, review and edit the text above.
+Mock interview practice, or review the 3 STAR Q&A already in this file.
