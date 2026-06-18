@@ -14,7 +14,7 @@
 |---|-----|---------|----------|-----|------|--------|
 | 1 | Math Instructor/Tutor | Mathnasium Burnaby North | Burnaby | $17-22 | [Indeed](https://ca.indeed.com/jobs?q=Math+Instructor+Tutor+Mathnasium+Burnaby+North&l=Burnaby) | ✅ SHOOT |
 | 2 | Math Instructor/Tutor | Mathnasium South Surrey | Surrey | $15-20 | [Indeed](https://ca.indeed.com/jobs?q=Math+Instructor+Tutor+Mathnasium+South+Surrey&l=Surrey) | ✅ SHOOT |
-| 3 | BC High School Tutor | U+ Education Vancouver | Richmond | $25-40 | [Indeed](https://ca.indeed.com/jobs?q=BC+High+School+Tutor+Math+Chem+Physics+U+Education&l=Richmond) | 📋 open |
+| 3 | BC High School Tutor | U+ Education Vancouver | Richmond | $25-40 | [Indeed](https://ca.indeed.com/jobs?q=BC+High+School+Tutor+Math+Chem+Physics+U+Education&l=Richmond) | ✅ SHOOT |
 | 4 | Science Tutor (AP) | Elite Educational Institute | Richmond | $35-40 | [Indeed](https://ca.indeed.com/jobs?q=Science+Tutor+Elite+Educational+Institute&l=Richmond) | 📋 open |
 | 5 | Academic Tutor (Math) | Tutor Doctor-Pacific | North Vancouver | $20-28 | [Indeed](https://ca.indeed.com/jobs?q=Academic+Tutor+Tutor+Doctor+Pacific+North+Vancouver&l=North+Vancouver) | 📋 open |
 | 6 | Academic Instructor | Lux Education Group | Richmond | $25-50 | [Indeed](https://ca.indeed.com/jobs?q=Academic+Instructor+Tutor+Lux+Education+Group&l=Richmond) | 📋 open |
